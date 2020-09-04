@@ -8,7 +8,7 @@
     "java": {
         "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
     },
-    "rss": "https://westeroscraft.com/articles/index.rss",
+    "rss": "https://forum.westeroscraft.com/forum/-/index.rss",
     "servers": [
         {
             "id": "WesterosCraft-1.12.2",
@@ -24,7 +24,7 @@
                 "largeImageKey": "server-prod"
             },
             "mainServer": false,
-            "autoconnect": true,
+            "autoconnect": false,
             "modules": [
                 {
                     "id": "net.minecraftforge:forge:1.12.2-14.23.5.2854",
