@@ -117,7 +117,7 @@
                             }
                         },
                         {
-                            "id": "org.scala-lang:scala-parser-combinators_2.11:1.0.1@jar.pack.xz",
+                            "id": "org.scala-lang:scala-parser-combinators_2.11:1.0.1",
                             "name": "Minecraft Forge (scala-parser-combinators)",
                             "type": "Library",
                             "artifact": {
@@ -172,7 +172,7 @@
                             "type": "Library",
                             "artifact": {
                                 "size": 219554,
-                                "MD5": "10ec4ccabc4e68aac9cf87165ead5d7d",
+                                "MD5": "3AAF3C6E76A68E732C17D4A7E9877D81",
                                 "url": "https://minecraft.nexostys.fr/forge/1.12.2/config-1.2.1.jar"
                             }
                         },
