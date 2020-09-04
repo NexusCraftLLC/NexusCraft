@@ -1,0 +1,234 @@
+{
+    "version": "1.0.0",
+    "discord": {
+        "clientId": "385581240906022916",
+        "smallImageText": "WesterosCraft",
+        "smallImageKey": "seal-circle"
+    },
+    "java": {
+        "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
+    },
+    "rss": "https://westeroscraft.com/articles/index.rss",
+    "servers": [
+        {
+            "id": "WesterosCraft-1.12.2",
+            "name": "WesterosCraft 1.12.2 Production Server",
+            "description": "New 1.12.2 production server.",
+            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
+            "version": "4.5.8",
+            "address": "mc.westeroscraft.com:25565",
+            "minecraftVersion": "1.12.2",
+            "discord": {
+                "shortId": "1.12.2 Production Server",
+                "largeImageText": "WesterosCraft 1.12.2 Production Server",
+                "largeImageKey": "server-prod"
+            },
+            "mainServer": false,
+            "autoconnect": true,
+            "modules": [
+                {
+                    "id": "net.minecraftforge:forge:1.12.2-14.23.5.2854",
+                    "name": "Minecraft Forge",
+                    "type": "ForgeHosted",
+                    "artifact": {
+                        "size": 4464068,
+                        "MD5": "FF6F0650FF84D4C8E03DA9A4F536D9E1",
+                        "url": "https://minecraft.nexostys.fr/forge/1.12.2/forge-1.12.2-14.23.5.2854.jar"
+                    },
+                    "subModules": [
+                        {
+                            "id": "net.minecraft:launchwrapper:1.12",
+                            "name": "Mojang (LaunchWrapper)",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 32999,
+                                "MD5": "934B2D91C7C5BE4A49577C9E6B40E8DA",
+                                "url": "https://minecraft.nexostys.fr/forge/1.12.2/launchwrapper-1.12.jar"
+                            }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-debug-all:5.2",
+                            "name": "Mojang (ASM)",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 387903,
+                                "MD5": "FE5F20404CCDEE9769EF05DC4B47BA98",
+                                "url": "https://minecraft.nexostys.fr/forge/1.12.2/asm-debug-all-5.2.jar"
+                            }
+                        },
+                        {
+                            "id": "org.jline:jline:3.5.1",
+                            "name": "Mojang (jline)",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 614590,
+                                "MD5": "4C20D2879ED2BD75A0771CE29E89F6B0",
+                                "url": "https://minecraft.nexostys.fr/forge/1.12.2/jline-3.5.1.jar"
+                            }
+                        },
+                        {
+                            "id": "org.scala-lang:scala-library:2.11.1",
+                            "name": "Minecraft Forge (scala-library)",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 5538130,
+                                "MD5": "1D88F665219E6006C5DD82D71C525C0F",
+                                "url": "https://minecraft.nexostys.fr/forge/1.12.2/scala-library-2.11.1.jar"
+                            }
+                        },
+                        {
+                            "id": "org.scala-lang:scala-compiler:2.11.1",
+                            "name": "Minecraft Forge (scala-compiler)",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 13449765,
+                                "MD5": "06030143BF86CA896FB6CCFD679B5760",
+                                "url": "https://minecraft.nexostys.fr/forge/1.12.2/scala-compiler-2.11.1.jar"
+                            }
+                        },
+                        {
+                            "id": "org.scala-lang:scala-actors-migration_2.11:1.1.0",
+                            "name": "Minecraft Forge (scala-actors-migration)",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 58018,
+                                "MD5": "F5E79398DAA1806F8B17311A3C782723",
+                                "url": "https://minecraft.nexostys.fr/forge/1.12.2/scala-actors-migration_2.11-1.1.0.jar"
+                            }
+                        },
+                        {
+                            "id": "org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2_mc",
+                            "name": "Minecraft Forge (scala-continuations-library)",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 25365,
+                                "MD5": "004D7007ABBCEE858D3CA2C3CCBCBAAB",
+                                "url": "https://minecraft.nexostys.fr/forge/1.12.2/scala-continuations-library_2.11-1.0.2_mc.jar"
+                            }
+                        },
+                        {
+                            "id": "org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2_mc",
+                            "name": "Minecraft Forge (scala-continuations-plugin)",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 206575,
+                                "MD5": "359C4A6743A082C689039482EED78670",
+                                "url": "https://minecraft.nexostys.fr/forge/1.12.2/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
+                            }
+                        },
+                        {
+                            "id": "org.scala-lang:scala-parser-combinators_2.11:1.0.1@jar.pack.xz",
+                            "name": "Minecraft Forge (scala-parser-combinators)",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 419701,
+                                "MD5": "4E694499C965AF4A02599C99D4F0B196",
+                                "url": "https://minecraft.nexostys.fr/forge/1.12.2/scala-parser-combinators_2.11-1.0.1.jar"
+                            }
+                        },
+                        {
+                            "id": "org.scala-lang:scala-reflect:2.11.1",
+                            "name": "Minecraft Forge (scala-reflect)",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 4372892,
+                                "MD5": "7878FAC044E4E4B576BB35A77CCC34FC",
+                                "url": "https://minecraft.nexostys.fr/forge/1.12.2/scala-reflect-2.11.1.jar"
+                            }
+                        },
+                        {
+                            "id": "org.scala-lang:scala-swing_2.11:1.0.1",
+                            "name": "Minecraft Forge (scala-swing)",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 726500,
+                                "MD5": "1009D69E4948045383F2A7A334348AF5",
+                                "url": "https://minecraft.nexostys.fr/forge/1.12.2/scala-swing_2.11-1.0.1.jar"
+                            }
+                        },
+                        {
+                            "id": "org.scala-lang:scala-xml_2.11:1.0.2",
+                            "name": "Minecraft Forge (scala-xml)",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 648679,
+                                "MD5": "C2D7E66495AFE14545C31B21E99879EF",
+                                "url": "https://minecraft.nexostys.fr/forge/1.12.2/scala-xml_2.11-1.0.2.jar"
+                            }
+                        },
+                        {
+                            "id": "com.typesafe.akka:akka-actor_2.11:2.3.3",
+                            "name": "Minecraft Forge (akka-actor)",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 2514991,
+                                "MD5": "541440CA0819EBADA47D6D1A8B3EE9E1",
+                                "url": "https://minecraft.nexostys.fr/forge/1.12.2/akka-actor_2.11-2.3.3.jar"
+                            }
+                        },
+                        {
+                            "id": "com.typesafe:config:1.2.1",
+                            "name": "Minecraft Forge (typesafe-config)",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 219554,
+                                "MD5": "10ec4ccabc4e68aac9cf87165ead5d7d",
+                                "url": "https://minecraft.nexostys.fr/forge/1.12.2/config-1.2.1.jar"
+                            }
+                        },
+                        {
+                            "id": "lzma:lzma:0.0.1",
+                            "name": "Mojang (LZMA)",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 5762,
+                                "MD5": "A3E3C3186E41C4A1A3027BA2BB23CDC6",
+                                "url": "https://minecraft.nexostys.fr/forge/1.12.2/lzma-0.0.1.jar"
+                            }
+                        },
+                        {
+                            "id": "net.sf.trove4j:trove4j:3.0.3",
+                            "name": "Trove4J",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 2523218,
+                                "MD5": "8FC4D4E0129244F9FD39650C5F30FEB2",
+                                "url": "https://minecraft.nexostys.fr/forge/1.12.2/trove4j-3.0.3.jar"
+                            }
+                        },
+                        {
+                            "id": "java3d:vecmath:1.5.2",
+                            "name": "Vecmath",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 318956,
+                                "MD5": "E5D2B7F46C4800A32F62CE75676A5710",
+                                "url": "https://minecraft.nexostys.fr/forge/1.12.2/vecmath-1.5.2.jar"
+                            }
+                        },
+                        {
+                            "id": "net.sf.jopt-simple:jopt-simple:5.0.3",
+                            "name": "Jopt-simple",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 78175,
+                                "MD5": "0A5EC84E23DF9D7CFB4063BC55F2744C",
+                                "url": "https://minecraft.nexostys.fr/forge/1.12.2/jopt-simple-5.0.3.jar"
+                            }
+                        },
+                        {
+                            "id": "org.apache.maven:maven-artifact:3.5.3",
+                            "name": "maven-artifact",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 54961,
+                                "MD5": "7741EBF29690EE7D9DDE9CF4376347FC",
+                                "url": "https://minecraft.nexostys.fr/forge/1.12.2/maven-artifact-3.5.3.jar"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
