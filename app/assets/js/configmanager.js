@@ -91,7 +91,7 @@ const DEFAULT_CONFIG = {
         },
         launcher: {
             allowPrerelease: false,
-            dataDirectory: '.nexuscraft'
+            dataDirectory: path.join(sysRoot, '.nexuscraft')
         }
     },
     newsCache: {
