@@ -1986,7 +1986,7 @@
           }
         },
         {
-          "id": "net.malisis.core:malisiscore:1.12.2-6.5.1-SNAPSHOT@jar",
+          "id": "net.malisis.core:malisiscore:1.12.2-6.5.1@jar",
           "name": "MalisisCore",
           "type": "ForgeMod",
           "artifact": {
