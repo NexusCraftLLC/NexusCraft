@@ -1,5 +1,5 @@
 {
-  "version": "0.0.7.4",
+  "version": "0.0.7.5",
   "rss": "https://rss.nexostys.fr/?cat=2&feed=rss2",
   "discord": {
     "clientId": "473024351633932289",
@@ -1066,7 +1066,7 @@
           }
         },
         {
-          "id": "com.blakebr0:mysticalagriculture:1.7.3@jar",
+          "id": "com.blakebr0:mysticalagriculture:1.12.2-1.7.5",
           "name": "Mystical Agriculture",
           "type": "ForgeMod",
           "artifact": {
