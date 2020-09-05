@@ -21,7 +21,7 @@
                 },
                 "noInternet": {
                     "title": "Erreur lors de la connexion: <br> Pas de connexion Internet",
-                    "desc": "Vous devez être connecté à Internet pour vous connecter. Veuillez vous connecter et réessayer."
+                    "desc": "Vous devez être connecté à Inter   net pour vous connecter. Veuillez vous connecter et réessayer."
                 },
                 "authDown": {
                     "title": "Erreur lors de la connexion: <br> Authentication Server Offline",

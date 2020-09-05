@@ -12,8 +12,8 @@
       "name": "NexusCraft (Minecraft 1.12.2)",
       "description": "NexusCraft Running Minecraft 1.12.2 (Forge v14.23.5.2854)",
       "icon": null,
-      "version": "1.0.0",
-      "address": "localhost:25565",
+      "version": "0.0.1",
+      "address": "connect.nexuscraft.fr",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",

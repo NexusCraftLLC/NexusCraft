@@ -1881,7 +1881,7 @@ class AssetGuard extends EventEmitter {
             await this.validateMiscellaneous(versionData)
             this.emit('validate', 'files')
             await this.processDlQueues()
-            this.emit('complete', 'download')
+            this.emit('validate', 'download')
             const forgeData = await this.loadForgeData(server)
         
             return {
