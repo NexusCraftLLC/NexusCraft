@@ -1,5 +1,5 @@
 {
-  "version": "0.0.7.1",
+  "version": "0.0.7.2",
   "rss": "https://rss.nexostys.fr/?cat=2&feed=rss2",
   "discord": {
     "clientId": "473024351633932289",
@@ -30,7 +30,7 @@
           "artifact": {
             "size": 4464068,
             "MD5": "ff6f0650ff84d4c8e03da9a4f536d9e1",
-            "url": "http://localhost:8080/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854-universal.jar"
+            "url": "https://minecraft.nexostys.fr/forge/1.12.2/lib/net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854-universal.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 10873,
                 "MD5": "814f52398b6ebf70d22571307d2298eb",
-                "url": "http://localhost:8080/repo/versions/1.12.2-forge-14.23.5.2854/1.12.2-forge-14.23.5.2854.json"
+                "url": "https://minecraft.nexostys.fr/forge/1.12.2/versions/1.12.2-forge-14.23.5.2854/1.12.2-forge-14.23.5.2854.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 387903,
                 "MD5": "fe5f20404ccdee9769ef05dc4b47ba98",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
+                "url": "https://minecraft.nexostys.fr/forge/1.12.2/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 32999,
                 "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-                "url": "http://localhost:8080/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+                "url": "https://minecraft.nexostys.fr/forge/1.12.2/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 614590,
                 "MD5": "4c20d2879ed2bd75a0771ce29e89f6b0",
-                "url": "http://localhost:8080/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
+                "url": "https://minecraft.nexostys.fr/forge/1.12.2/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 2514991,
                 "MD5": "541440ca0819ebada47d6d1a8b3ee9e1",
-                "url": "http://localhost:8080/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
+                "url": "https://minecraft.nexostys.fr/forge/1.12.2/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 219554,
                 "MD5": "3aaf3c6e76a68e732c17d4a7e9877d81",
-                "url": "http://localhost:8080/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
+                "url": "https://minecraft.nexostys.fr/forge/1.12.2/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 58018,
                 "MD5": "f5e79398daa1806f8b17311a3c782723",
-                "url": "http://localhost:8080/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
+                "url": "https://minecraft.nexostys.fr/forge/1.12.2/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 13449765,
                 "MD5": "06030143bf86ca896fb6ccfd679b5760",
-                "url": "http://localhost:8080/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
+                "url": "https://minecraft.nexostys.fr/forge/1.12.2/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
               }
             },
             {
@@ -120,7 +120,7 @@
               "artifact": {
                 "size": 25365,
                 "MD5": "004d7007abbcee858d3ca2c3ccbcbaab",
-                "url": "http://localhost:8080/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
+                "url": "https://minecraft.nexostys.fr/forge/1.12.2/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
               }
             },
             {
@@ -130,7 +130,7 @@
               "artifact": {
                 "size": 206575,
                 "MD5": "359c4a6743a082c689039482eed78670",
-                "url": "http://localhost:8080/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
+                "url": "https://minecraft.nexostys.fr/forge/1.12.2/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
               }
             },
             {
@@ -140,7 +140,7 @@
               "artifact": {
                 "size": 5538130,
                 "MD5": "1d88f665219e6006c5dd82d71c525c0f",
-                "url": "http://localhost:8080/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
+                "url": "https://minecraft.nexostys.fr/forge/1.12.2/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
               }
             },
             {
@@ -150,7 +150,7 @@
               "artifact": {
                 "size": 419701,
                 "MD5": "4e694499c965af4a02599c99d4f0b196",
-                "url": "http://localhost:8080/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
+                "url": "https://minecraft.nexostys.fr/forge/1.12.2/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
               }
             },
             {
@@ -160,7 +160,7 @@
               "artifact": {
                 "size": 4372892,
                 "MD5": "7878fac044e4e4b576bb35a77ccc34fc",
-                "url": "http://localhost:8080/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
+                "url": "https://minecraft.nexostys.fr/forge/1.12.2/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
               }
             },
             {
@@ -170,7 +170,7 @@
               "artifact": {
                 "size": 726500,
                 "MD5": "1009d69e4948045383f2a7a334348af5",
-                "url": "http://localhost:8080/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
+                "url": "https://minecraft.nexostys.fr/forge/1.12.2/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
               }
             },
             {
@@ -180,7 +180,7 @@
               "artifact": {
                 "size": 648679,
                 "MD5": "c2d7e66495afe14545c31b21e99879ef",
-                "url": "http://localhost:8080/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
+                "url": "https://minecraft.nexostys.fr/forge/1.12.2/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
               }
             },
             {
@@ -190,7 +190,7 @@
               "artifact": {
                 "size": 5762,
                 "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
-                "url": "http://localhost:8080/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
+                "url": "https://minecraft.nexostys.fr/forge/1.12.2/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
               }
             },
             {
@@ -200,7 +200,7 @@
               "artifact": {
                 "size": 318956,
                 "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
-                "url": "http://localhost:8080/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
+                "url": "https://minecraft.nexostys.fr/forge/1.12.2/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
               }
             },
             {
@@ -210,7 +210,7 @@
               "artifact": {
                 "size": 2523218,
                 "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
-                "url": "http://localhost:8080/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
+                "url": "https://minecraft.nexostys.fr/forge/1.12.2/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
               }
             },
             {
@@ -220,7 +220,7 @@
               "artifact": {
                 "size": 54961,
                 "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
-                "url": "http://localhost:8080/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
+                "url": "https://minecraft.nexostys.fr/forge/1.12.2/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
               }
             },
             {
@@ -230,7 +230,7 @@
               "artifact": {
                 "size": 78175,
                 "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
-                "url": "http://localhost:8080/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
+                "url": "https://minecraft.nexostys.fr/forge/1.12.2/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
               }
             }
           ]
@@ -242,7 +242,7 @@
           "artifact": {
             "size": 243622,
             "MD5": "fa9e9ca3b46eeb8710535d002067cf49",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/AE2WTLib-1.12.2-1.0.34.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/AE2WTLib-1.12.2-1.0.34.jar"
           }
         },
         {
@@ -252,7 +252,7 @@
           "artifact": {
             "size": 13897741,
             "MD5": "1a35251cc11c7bdd5493bfd54ef0f3e1",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/AbyssalCraft-1.12.2-1.9.16.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/AbyssalCraft-1.12.2-1.9.16.jar"
           }
         },
         {
@@ -262,7 +262,7 @@
           "artifact": {
             "size": 2703860,
             "MD5": "e62726802ff285f63da89690895c375c",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/ActuallyAdditions-1.12.2-r151-2.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/ActuallyAdditions-1.12.2-r151-2.jar"
           }
         },
         {
@@ -272,7 +272,7 @@
           "artifact": {
             "size": 11604,
             "MD5": "71b8dfb3383bf90c615ff4be27f425b7",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/ActuallyBaubles-1.12-1.1.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/ActuallyBaubles-1.12-1.1.jar"
           }
         },
         {
@@ -282,7 +282,7 @@
           "artifact": {
             "size": 316833,
             "MD5": "2f16b7591d15da58d91f2ff147299a73",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/Advanced%20Solar%20Panels-4.3.0.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/Advanced%20Solar%20Panels-4.3.0.jar"
           }
         },
         {
@@ -292,7 +292,7 @@
           "artifact": {
             "size": 12616522,
             "MD5": "7f466d3755b0ff8a8d326ac9bb93c8da",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/AdvancedRocketry-1.12.2-1.6.0-200-universal.jar.disabled"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/AdvancedRocketry-1.12.2-1.6.0-200-universal.jar.disabled"
           }
         },
         {
@@ -302,7 +302,7 @@
           "artifact": {
             "size": 1357627,
             "MD5": "91f05bba8a633439a4518b57413ba835",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/AgriCraft-2.12.0-1.12.0-a6.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/AgriCraft-2.12.0-1.12.0-a6.jar"
           }
         },
         {
@@ -312,7 +312,7 @@
           "artifact": {
             "size": 32317,
             "MD5": "0e0af1e6f80ea2ee7ecfc2f8f44b897b",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/AppleSkin-mc1.12-1.0.9.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/AppleSkin-mc1.12-1.0.9.jar"
           }
         },
         {
@@ -322,7 +322,7 @@
           "artifact": {
             "size": 398654,
             "MD5": "dea71000a0e1b049a7303545307b4ec4",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/Aroma1997Core-1.12.2-2.0.0.2.b166.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/Aroma1997Core-1.12.2-2.0.0.2.b166.jar"
           }
         },
         {
@@ -332,7 +332,7 @@
           "artifact": {
             "size": 130340,
             "MD5": "5ae69cae29a60cdcaee759b32aaefbb7",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/Aroma1997s-Dimensional-World-1.12.2-2.0.0.2.b96.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/Aroma1997s-Dimensional-World-1.12.2-2.0.0.2.b96.jar"
           }
         },
         {
@@ -342,7 +342,7 @@
           "artifact": {
             "size": 108306,
             "MD5": "4e5a4b881c27b1e4502a9a16c00882ad",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/AutoRegLib-1.3-32.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/AutoRegLib-1.3-32.jar"
           }
         },
         {
@@ -352,7 +352,7 @@
           "artifact": {
             "size": 972581,
             "MD5": "8eedd678495a7ce0958c026a7873fc62",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/Avaritia-1.12.2-3.3.0.33-universal.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/Avaritia-1.12.2-3.3.0.33-universal.jar"
           }
         },
         {
@@ -362,7 +362,7 @@
           "artifact": {
             "size": 87589,
             "MD5": "053a736f3be3bdf305be52934f8c8151",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/AvaritiaTweaks-1.12.2-1.1.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/AvaritiaTweaks-1.12.2-1.1.jar"
           }
         },
         {
@@ -372,7 +372,7 @@
           "artifact": {
             "size": 108450,
             "MD5": "944dec4ef3fbfd4d498d94a7047af201",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/Baubles-1.12-1.5.2.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/Baubles-1.12-1.5.2.jar"
           }
         },
         {
@@ -382,7 +382,7 @@
           "artifact": {
             "size": 77866,
             "MD5": "fb4283f63a9129ef4611cc92e36de18d",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/BetterBuildersWands-1.12.2-0.13.2.271+5997513.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/BetterBuildersWands-1.12.2-0.13.2.271+5997513.jar"
           }
         },
         {
@@ -392,7 +392,7 @@
           "artifact": {
             "size": 155196,
             "MD5": "d36f4d3c0f96e99a9a1ad2e8eeda1fc4",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/BetterFps-1.4.8.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/BetterFps-1.4.8.jar"
           }
         },
         {
@@ -402,7 +402,7 @@
           "artifact": {
             "size": 1403118,
             "MD5": "4247ca6c091f4e154007910b7c37f426",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/BetterQuesting-3.5.320.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/BetterQuesting-3.5.320.jar"
           }
         },
         {
@@ -412,7 +412,7 @@
           "artifact": {
             "size": 5122856,
             "MD5": "5b9f1a1543a1fdf687fe4761e3d63ed4",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/BiblioCraft[v2.4.5][MC1.12.2].jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/BiblioCraft[v2.4.5][MC1.12.2].jar"
           }
         },
         {
@@ -422,7 +422,7 @@
           "artifact": {
             "size": 4696621,
             "MD5": "61fcc4ffff205ca261e61d6772debc4d",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar"
           }
         },
         {
@@ -432,7 +432,7 @@
           "artifact": {
             "size": 665308,
             "MD5": "75bd25eb8b034bf983c6460ef8076f27",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/BloodArsenal-1.12.2-2.2.1-29.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/BloodArsenal-1.12.2-2.2.1-29.jar"
           }
         },
         {
@@ -442,7 +442,7 @@
           "artifact": {
             "size": 7208594,
             "MD5": "90f67913247c8cf549836d724efc87fc",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/BloodMagic-1.12.2-2.4.3-105.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/BloodMagic-1.12.2-2.4.3-105.jar"
           }
         },
         {
@@ -452,7 +452,7 @@
           "artifact": {
             "size": 266636,
             "MD5": "85a44d3299449545e435f5ec55fc914b",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/Bookshelf-1.12.2-2.3.590.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/Bookshelf-1.12.2-2.3.590.jar"
           }
         },
         {
@@ -462,7 +462,7 @@
           "artifact": {
             "size": 13814617,
             "MD5": "5ba76d3db9345fa9e398523bddda59f3",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/Botania%20r1.10-363.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/Botania%20r1.10-363.jar"
           }
         },
         {
@@ -472,7 +472,7 @@
           "artifact": {
             "size": 825615,
             "MD5": "af264b9fbdbcbb1e47da12e79782da7f",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/BrandonsCore-1.12.2-2.4.18.210-universal.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/BrandonsCore-1.12.2-2.4.18.210-universal.jar"
           }
         },
         {
@@ -482,7 +482,7 @@
           "artifact": {
             "size": 199047,
             "MD5": "e8299f25d1437b1e7644d379d45a8a42",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/CTM-MC1.12.2-1.0.1.30.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/CTM-MC1.12.2-1.0.1.30.jar"
           }
         },
         {
@@ -492,7 +492,7 @@
           "artifact": {
             "size": 400538,
             "MD5": "5992287165b230487f46d8321bb957dd",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/Ceramics-1.12-1.3.7.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/Ceramics-1.12-1.3.7.jar"
           }
         },
         {
@@ -502,7 +502,7 @@
           "artifact": {
             "size": 96859,
             "MD5": "e42efa8f4fd42d2918128a826b740e98",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/Chameleon-1.12-4.1.3.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/Chameleon-1.12-4.1.3.jar"
           }
         },
         {
@@ -512,7 +512,7 @@
           "artifact": {
             "size": 923917,
             "MD5": "6c09d50897c93f3569968645f2234eb4",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/ChanceCubes-1.12.2-5.0.1.339.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/ChanceCubes-1.12.2-5.0.1.339.jar"
           }
         },
         {
@@ -522,7 +522,7 @@
           "artifact": {
             "size": 134367,
             "MD5": "f6bf337a09fcfa19aedc840f19cac222",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/ChickenChunks-1.12.2-2.4.2.74-universal.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/ChickenChunks-1.12.2-2.4.2.74-universal.jar"
           }
         },
         {
@@ -532,7 +532,7 @@
           "artifact": {
             "size": 4754821,
             "MD5": "fd1dd13667812ea520446e6220510d45",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/Chisel-MC1.12.2-1.0.1.44.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/Chisel-MC1.12.2-1.0.1.44.jar"
           }
         },
         {
@@ -542,7 +542,7 @@
           "artifact": {
             "size": 847938,
             "MD5": "90efac9c0abffa63c6da1453ceca1d68",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/CoFHCore-1.12.2-4.6.3.27-universal.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/CoFHCore-1.12.2-4.6.3.27-universal.jar"
           }
         },
         {
@@ -552,7 +552,7 @@
           "artifact": {
             "size": 532040,
             "MD5": "c196ade3fe4f33b4d38b4de43326ae2d",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/CoFHWorld-1.12.2-1.3.1.7-universal.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/CoFHWorld-1.12.2-1.3.1.7-universal.jar"
           }
         },
         {
@@ -562,7 +562,7 @@
           "artifact": {
             "size": 704330,
             "MD5": "3b5e44db5ac96fb23a439590b6731a31",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/CodeChickenLib-1.12.2-3.2.3.358-universal.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/CodeChickenLib-1.12.2-3.2.3.358-universal.jar"
           }
         },
         {
@@ -572,7 +572,7 @@
           "artifact": {
             "size": 274895,
             "MD5": "a36b092d9ed0900b7143f4a14a12fba8",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/ContentTweaker-1.12.2-4.9.1.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/ContentTweaker-1.12.2-4.9.1.jar"
           }
         },
         {
@@ -582,7 +582,7 @@
           "artifact": {
             "size": 595301,
             "MD5": "f1067937f350aba63a80089093b66724",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/CookingForBlockheads_1.12.2-6.5.0.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/CookingForBlockheads_1.12.2-6.5.0.jar"
           }
         },
         {
@@ -592,7 +592,7 @@
           "artifact": {
             "size": 1363036,
             "MD5": "521297c5e2459dd232a72dacffa45a0b",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/CraftTweaker2-1.12-4.1.20.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/CraftTweaker2-1.12-4.1.20.jar"
           }
         },
         {
@@ -602,7 +602,7 @@
           "artifact": {
             "size": 126699,
             "MD5": "0018d8de31b05dc44c80a25d73fde15b",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/Cucumber-1.12.2-1.1.3.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/Cucumber-1.12.2-1.1.3.jar"
           }
         },
         {
@@ -612,7 +612,7 @@
           "artifact": {
             "size": 426515,
             "MD5": "672e81d68ebdf0ac8a4cd9f78a38a770",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/DarkUtils-1.12.2-1.8.230.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/DarkUtils-1.12.2-1.8.230.jar"
           }
         },
         {
@@ -622,7 +622,7 @@
           "artifact": {
             "size": 8779500,
             "MD5": "6fd0287de2959e02351f5b1a19b51953",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/DiscordIntegration-mc1.12.2-3.0.5.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/DiscordIntegration-mc1.12.2-3.0.5.jar"
           }
         },
         {
@@ -632,7 +632,7 @@
           "artifact": {
             "size": 5705834,
             "MD5": "a23c263063b8e110f8c053c148ba6d2d",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/Draconic-Evolution-1.12.2-2.3.25.351-universal.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/Draconic-Evolution-1.12.2-2.3.25.351-universal.jar"
           }
         },
         {
@@ -642,7 +642,7 @@
           "artifact": {
             "size": 642654,
             "MD5": "619a6d82109069d4326ba5fabf48d4fa",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/EnderCore-1.12.2-0.5.73.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/EnderCore-1.12.2-0.5.73.jar"
           }
         },
         {
@@ -652,7 +652,7 @@
           "artifact": {
             "size": 8366769,
             "MD5": "8495577037840e0cacbc1c0c5914d459",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/EnderIO-1.12.2-5.1.55.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/EnderIO-1.12.2-5.1.55.jar"
           }
         },
         {
@@ -662,7 +662,7 @@
           "artifact": {
             "size": 118048,
             "MD5": "2e93234efb9f4d918d13cfe7e06f0bde",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/EnderIO-endergy-1.12.2-5.1.55.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/EnderIO-endergy-1.12.2-5.1.55.jar"
           }
         },
         {
@@ -672,7 +672,7 @@
           "artifact": {
             "size": 223250,
             "MD5": "c66000e24e8c11675db554c644b31bda",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/EnderStorage-1.12.2-2.4.6.137-universal.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/EnderStorage-1.12.2-2.4.6.137-universal.jar"
           }
         },
         {
@@ -682,7 +682,7 @@
           "artifact": {
             "size": 496656,
             "MD5": "f900046c11d7a5fab019003432e57db9",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/EnderZoo-1.12.1-1.4.0.49.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/EnderZoo-1.12.1-1.4.0.49.jar"
           }
         },
         {
@@ -692,7 +692,7 @@
           "artifact": {
             "size": 237460,
             "MD5": "58d25f0a5ab2f58cc62e87634ec8cdaa",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/EquivalentEnergistics-1.12.2-PE_1.3.1B-AE2_RV6-0.8.3.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/EquivalentEnergistics-1.12.2-PE_1.3.1B-AE2_RV6-0.8.3.jar"
           }
         },
         {
@@ -702,7 +702,7 @@
           "artifact": {
             "size": 12363576,
             "MD5": "98c6ea4b8f617b6c1c1ec84dd20876e1",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/Erebus-1.0.31.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/Erebus-1.0.31.jar"
           }
         },
         {
@@ -712,7 +712,7 @@
           "artifact": {
             "size": 510317,
             "MD5": "138f061801021d3c8b46b64737eb5859",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/ExCompressum_1.12.2-3.0.31.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/ExCompressum_1.12.2-3.0.31.jar"
           }
         },
         {
@@ -722,7 +722,7 @@
           "artifact": {
             "size": 137190,
             "MD5": "fde376bc6e7f293e04903319ab491a04",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/ExpandedEquivalence-1.12.2-13r.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/ExpandedEquivalence-1.12.2-13r.jar"
           }
         },
         {
@@ -732,7 +732,7 @@
           "artifact": {
             "size": 446452,
             "MD5": "2d0daf5586eeeb6e35fbdd6e980b9228",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/ExtendedCrafting-1.12.2-1.5.6.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/ExtendedCrafting-1.12.2-1.5.6.jar"
           }
         },
         {
@@ -742,7 +742,7 @@
           "artifact": {
             "size": 2520745,
             "MD5": "a96d3b8fd1cc8b41fdde9469bacc5c99",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/ExtraCells-1.12.2-2.6.5.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/ExtraCells-1.12.2-2.6.5.jar"
           }
         },
         {
@@ -752,7 +752,7 @@
           "artifact": {
             "size": 1110113,
             "MD5": "92e5cc48aca43add940af096e7694141",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/ExtremeReactors-1.12.2-0.4.5.67.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/ExtremeReactors-1.12.2-0.4.5.67.jar"
           }
         },
         {
@@ -762,7 +762,7 @@
           "artifact": {
             "size": 43764,
             "MD5": "932a6981ff08c35bbdf83bb9f7af8d17",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/FTBBackups-1.1.0.1.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/FTBBackups-1.1.0.1.jar"
           }
         },
         {
@@ -772,7 +772,7 @@
           "artifact": {
             "size": 934358,
             "MD5": "97f3523da82f7a935ee11c8dc858a6ff",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/FTBLib-5.4.4.5.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/FTBLib-5.4.4.5.jar"
           }
         },
         {
@@ -782,7 +782,7 @@
           "artifact": {
             "size": 424109,
             "MD5": "bccfb63dcd1a3ea196a748f1138ab758",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/FTBUtilities-5.4.0.124.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/FTBUtilities-5.4.0.124.jar"
           }
         },
         {
@@ -792,7 +792,7 @@
           "artifact": {
             "size": 5200,
             "MD5": "18096ffb7f58d94f8e5a7bf2ff160f0f",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/FastLeafDecay-v14.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/FastLeafDecay-v14.jar"
           }
         },
         {
@@ -802,7 +802,7 @@
           "artifact": {
             "size": 1304958,
             "MD5": "e45e04bc38dc373aaef0415c2e2d441d",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/ForgeMultipart-1.12.2-2.6.2.83-universal.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/ForgeMultipart-1.12.2-2.6.2.83-universal.jar"
           }
         },
         {
@@ -812,7 +812,7 @@
           "artifact": {
             "size": 6278399,
             "MD5": "2da79fce72265eab0541e565636d389d",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/Forgelin-1.8.4.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/Forgelin-1.8.4.jar"
           }
         },
         {
@@ -822,7 +822,7 @@
           "artifact": {
             "size": 8960,
             "MD5": "1999d0999ec4786223a7c1d66a171c8a",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/GardenOfGlass.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/GardenOfGlass.jar"
           }
         },
         {
@@ -832,7 +832,7 @@
           "artifact": {
             "size": 169528,
             "MD5": "117d3d825059fceb0c1d04f8701beb00",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/Guide-API-1.12-2.1.8-63.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/Guide-API-1.12-2.1.8-63.jar"
           }
         },
         {
@@ -842,7 +842,7 @@
           "artifact": {
             "size": 2364567,
             "MD5": "8fce136366fd9edd628a17104fe16583",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/HammerCore-1.12.2-2.0.6.10.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/HammerCore-1.12.2-2.0.6.10.jar"
           }
         },
         {
@@ -852,7 +852,7 @@
           "artifact": {
             "size": 314009,
             "MD5": "5c7ea9a9f9783a04e2af389c7d367344",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/Hats-1.12.2-7.1.0.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/Hats-1.12.2-7.1.0.jar"
           }
         },
         {
@@ -862,7 +862,7 @@
           "artifact": {
             "size": 205922,
             "MD5": "605ef65c09fa0e2db3233af5cf79bf73",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/ImmersiveCables-1.12.2-1.3.2.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/ImmersiveCables-1.12.2-1.3.2.jar"
           }
         },
         {
@@ -872,7 +872,7 @@
           "artifact": {
             "size": 6802153,
             "MD5": "732d7fb7d99480fc4a8885667567b54b",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/ImmersiveEngineering-0.12-92.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/ImmersiveEngineering-0.12-92.jar"
           }
         },
         {
@@ -882,7 +882,7 @@
           "artifact": {
             "size": 1241169,
             "MD5": "55379a7741f7a1e5f0d15f72ba0809b0",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/IndustrialWires-1.7-36.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/IndustrialWires-1.7-36.jar"
           }
         },
         {
@@ -892,7 +892,7 @@
           "artifact": {
             "size": 172247,
             "MD5": "4b2cbad2243b62fc15a712f9159f3bc5",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/IntegrationForegoing-1.12.2-1.9.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/IntegrationForegoing-1.12.2-1.9.jar"
           }
         },
         {
@@ -902,7 +902,7 @@
           "artifact": {
             "size": 263258,
             "MD5": "1e2e33e5710394252abc4b014bc3dcbd",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/InventoryTweaks-1.63.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/InventoryTweaks-1.63.jar"
           }
         },
         {
@@ -912,7 +912,7 @@
           "artifact": {
             "size": 457539,
             "MD5": "d1405dc3bb9d465185ac637e09f0221b",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/JAOPCA-1.12.2-2.2.8.103.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/JAOPCA-1.12.2-2.2.8.103.jar"
           }
         },
         {
@@ -922,7 +922,7 @@
           "artifact": {
             "size": 87065,
             "MD5": "ef7bb9b309017e96c308a11e257624fb",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/JAOPCAAgriculture-1.12.2-1.2.1.16.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/JAOPCAAgriculture-1.12.2-1.2.1.16.jar"
           }
         },
         {
@@ -932,7 +932,7 @@
           "artifact": {
             "size": 222270,
             "MD5": "87a4666549a60d8fb423883dd4ee6232",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/JustEnoughResources-1.12.2-0.9.2.60.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/JustEnoughResources-1.12.2-0.9.2.60.jar"
           }
         },
         {
@@ -942,7 +942,7 @@
           "artifact": {
             "size": 522443,
             "MD5": "e954f043f8830181c4082f5ffd5f30b5",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/LibVulpes-1.12.2-0.4.2-71-universal.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/LibVulpes-1.12.2-0.4.2-71-universal.jar"
           }
         },
         {
@@ -952,7 +952,7 @@
           "artifact": {
             "size": 279242,
             "MD5": "251da8ab30737ef321e2ee2c50a3782e",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/LootBags-1.12.2-2.5.8.5.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/LootBags-1.12.2-2.5.8.5.jar"
           }
         },
         {
@@ -962,7 +962,7 @@
           "artifact": {
             "size": 30002,
             "MD5": "b46748362c046d70b821121331246aa5",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/MTLib-3.0.6.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/MTLib-3.0.6.jar"
           }
         },
         {
@@ -972,7 +972,7 @@
           "artifact": {
             "size": 1035863,
             "MD5": "16b05db9ab13a8411e8a3b7abe69ec77",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/MagicBees-1.12.2-3.1.10.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/MagicBees-1.12.2-3.1.10.jar"
           }
         },
         {
@@ -982,7 +982,7 @@
           "artifact": {
             "size": 843486,
             "MD5": "1026f5f8d3c4997831decd9023ca65a6",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/Mantle-1.12-1.3.3.55.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/Mantle-1.12-1.3.3.55.jar"
           }
         },
         {
@@ -992,7 +992,7 @@
           "artifact": {
             "size": 7863657,
             "MD5": "e622b8365b9a1190b3b6cc042854e870",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/Mekanism-1.12.2-9.8.3.390.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/Mekanism-1.12.2-9.8.3.390.jar"
           }
         },
         {
@@ -1002,7 +1002,7 @@
           "artifact": {
             "size": 336364,
             "MD5": "d75ddb11a6c1353b046c70d8904fe61e",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/MekanismGenerators-1.12.2-9.8.3.390.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/MekanismGenerators-1.12.2-9.8.3.390.jar"
           }
         },
         {
@@ -1012,7 +1012,7 @@
           "artifact": {
             "size": 159785,
             "MD5": "0095f13a729ce5873319e36e29a5b5e1",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/MekanismTools-1.12.2-9.8.3.390.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/MekanismTools-1.12.2-9.8.3.390.jar"
           }
         },
         {
@@ -1022,7 +1022,7 @@
           "artifact": {
             "size": 89699,
             "MD5": "483292598a0e8bd8e3ee02b585a0eedb",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/MooFluids-1.12.2-1.8.12.02a.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/MooFluids-1.12.2-1.8.12.02a.jar"
           }
         },
         {
@@ -1032,7 +1032,7 @@
           "artifact": {
             "size": 21508,
             "MD5": "357dc3701a8c7d4109147c666f6a4300",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/Morpheus-1.12.2-3.5.106.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/Morpheus-1.12.2-3.5.106.jar"
           }
         },
         {
@@ -1042,7 +1042,7 @@
           "artifact": {
             "size": 803400,
             "MD5": "edff42a77c41f9191722b5b794e37668",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/MrTJPCore-1.12.2-2.1.4.43-universal.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/MrTJPCore-1.12.2-2.1.4.43-universal.jar"
           }
         },
         {
@@ -1052,7 +1052,7 @@
           "artifact": {
             "size": 134055,
             "MD5": "ead0f02e214ab12b4f7b86c79fc23ffa",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/MysticalAgradditions-1.12.2-1.3.2.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/MysticalAgradditions-1.12.2-1.3.2.jar"
           }
         },
         {
@@ -1062,7 +1062,7 @@
           "artifact": {
             "size": 1536124,
             "MD5": "b7b81747d20baf1c5547ee302bad1420",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/MysticalAgriculture-1.12.2-1.7.5.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/MysticalAgriculture-1.12.2-1.7.5.jar"
           }
         },
         {
@@ -1072,7 +1072,7 @@
           "artifact": {
             "size": 31782,
             "MD5": "759494e409ce5d2ac277fc350e89500a",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/NotEnoughIDs-1.5.4.4.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/NotEnoughIDs-1.5.4.4.jar"
           }
         },
         {
@@ -1082,7 +1082,7 @@
           "artifact": {
             "size": 6863570,
             "MD5": "dc66b9af707acd68b67f29250148a0f3",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/NuclearCraft-2.18o-1.12.2.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/NuclearCraft-2.18o-1.12.2.jar"
           }
         },
         {
@@ -1092,7 +1092,7 @@
           "artifact": {
             "size": 3217616,
             "MD5": "cd7f642f983669c6ae94d6a999d0d6e9",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/OpenBlocks-1.12.2-1.8.1.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/OpenBlocks-1.12.2-1.8.1.jar"
           }
         },
         {
@@ -1102,7 +1102,7 @@
           "artifact": {
             "size": 15643758,
             "MD5": "1da9dd8478ba6d682f2787746776e18a",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/OpenComputers-MC1.12.2-1.7.5.192.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/OpenComputers-MC1.12.2-1.7.5.192.jar"
           }
         },
         {
@@ -1112,7 +1112,7 @@
           "artifact": {
             "size": 2639587,
             "MD5": "9c0606c553fbdf86e2f459c1cc40414d",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/OpenModsLib-1.12.2-0.12.2.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/OpenModsLib-1.12.2-0.12.2.jar"
           }
         },
         {
@@ -1122,7 +1122,7 @@
           "artifact": {
             "size": 183484,
             "MD5": "b4fa38ab6cf89d137e2948660a4e4b8f",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/OreExcavation-1.4.143.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/OreExcavation-1.4.143.jar"
           }
         },
         {
@@ -1132,7 +1132,7 @@
           "artifact": {
             "size": 31204,
             "MD5": "103f7c5f719be9771cb816caacc012f7",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/OrechidEndium-1.12.2-1.0.1.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/OrechidEndium-1.12.2-1.0.1.jar"
           }
         },
         {
@@ -1142,7 +1142,7 @@
           "artifact": {
             "size": 211065,
             "MD5": "d0dc8823d2c3c0f764c8aa6cbd128b37",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/PackagedAuto-1.12.2-1.0.2.9.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/PackagedAuto-1.12.2-1.0.2.9.jar"
           }
         },
         {
@@ -1152,7 +1152,7 @@
           "artifact": {
             "size": 4907780,
             "MD5": "d49e4034973a38b9a92d1f9939decd70",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/Pam%27s%20HarvestCraft%201.12.2zf.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/Pam%27s%20HarvestCraft%201.12.2zf.jar"
           }
         },
         {
@@ -1162,7 +1162,7 @@
           "artifact": {
             "size": 466243,
             "MD5": "7ccc8471d31b2997768f813d8e3f7b96",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/Patchouli-1.0-20.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/Patchouli-1.0-20.jar"
           }
         },
         {
@@ -1172,7 +1172,7 @@
           "artifact": {
             "size": 76902,
             "MD5": "a9ecfa296b2b1203ed5a68ed6c01833a",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/Placebo-1.12.2-1.6.0.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/Placebo-1.12.2-1.6.0.jar"
           }
         },
         {
@@ -1182,7 +1182,7 @@
           "artifact": {
             "size": 1803337,
             "MD5": "0bda26b9aac4ffe8143757cf1aacfde8",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/ProjectE-1.12.2-PE1.4.0.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/ProjectE-1.12.2-PE1.4.0.jar"
           }
         },
         {
@@ -1192,7 +1192,7 @@
           "artifact": {
             "size": 377181,
             "MD5": "c1ff9dccf7a2fd632781448b38f24996",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/ProjectEX-1.1.0.32.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/ProjectEX-1.1.0.32.jar"
           }
         },
         {
@@ -1202,7 +1202,7 @@
           "artifact": {
             "size": 2036136,
             "MD5": "1380ad8d4ffbc3f1189078473f6f10f9",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/ProjectRed-1.12.2-4.9.4.120-Base.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/ProjectRed-1.12.2-4.9.4.120-Base.jar"
           }
         },
         {
@@ -1212,7 +1212,7 @@
           "artifact": {
             "size": 67384,
             "MD5": "56c34f44395c918926fc5751f82d70b9",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/ProjectRed-1.12.2-4.9.4.120-compat.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/ProjectRed-1.12.2-4.9.4.120-compat.jar"
           }
         },
         {
@@ -1222,7 +1222,7 @@
           "artifact": {
             "size": 1894139,
             "MD5": "eabf2010d23f3cfc583cd809a7b0febf",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/ProjectRed-1.12.2-4.9.4.120-fabrication.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/ProjectRed-1.12.2-4.9.4.120-fabrication.jar"
           }
         },
         {
@@ -1232,7 +1232,7 @@
           "artifact": {
             "size": 3923751,
             "MD5": "0d8259b233ab89d2171b6337167e7e6f",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/ProjectRed-1.12.2-4.9.4.120-integration.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/ProjectRed-1.12.2-4.9.4.120-integration.jar"
           }
         },
         {
@@ -1242,7 +1242,7 @@
           "artifact": {
             "size": 724477,
             "MD5": "b9ead4f7e70dd4c0f68cd8c690249753",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/ProjectRed-1.12.2-4.9.4.120-lighting.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/ProjectRed-1.12.2-4.9.4.120-lighting.jar"
           }
         },
         {
@@ -1252,7 +1252,7 @@
           "artifact": {
             "size": 2596509,
             "MD5": "cafa40d180f86081e748d15ba5a0ffc9",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/ProjectRed-1.12.2-4.9.4.120-mechanical.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/ProjectRed-1.12.2-4.9.4.120-mechanical.jar"
           }
         },
         {
@@ -1262,7 +1262,7 @@
           "artifact": {
             "size": 501169,
             "MD5": "2ac24154b87ff4fbc97e5330c2ca11f7",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/ProjectRed-1.12.2-4.9.4.120-world.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/ProjectRed-1.12.2-4.9.4.120-world.jar"
           }
         },
         {
@@ -1272,7 +1272,7 @@
           "artifact": {
             "size": 3875942,
             "MD5": "db3f8b818a99d3155194d63ae8919bfa",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/Quark-r1.6-177.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/Quark-r1.6-177.jar"
           }
         },
         {
@@ -1282,7 +1282,7 @@
           "artifact": {
             "size": 3292860,
             "MD5": "46851d970cc78a6354ca70139e3fe8f3",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/RandomThings-MC1.12.2-4.2.7.3.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/RandomThings-MC1.12.2-4.2.7.3.jar"
           }
         },
         {
@@ -1292,7 +1292,7 @@
           "artifact": {
             "size": 2463098,
             "MD5": "ab51373e17e1439f0838358120b35cc8",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/RebornCore-1.12.2-3.18.1.514-universal.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/RebornCore-1.12.2-3.18.1.514-universal.jar"
           }
         },
         {
@@ -1302,7 +1302,7 @@
           "artifact": {
             "size": 262973,
             "MD5": "3bbe81cebe761061b8d16f6c981e30b4",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/RedstoneArsenal-1.12.2-2.6.3.18-universal.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/RedstoneArsenal-1.12.2-2.6.3.18-universal.jar"
           }
         },
         {
@@ -1312,7 +1312,7 @@
           "artifact": {
             "size": 36278,
             "MD5": "f00530b437c41a189dbf8a85d0ac40b6",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/RedstoneFlux-1.12-2.1.0.6-universal.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/RedstoneFlux-1.12-2.1.0.6-universal.jar"
           }
         },
         {
@@ -1322,7 +1322,7 @@
           "artifact": {
             "size": 105448,
             "MD5": "0b8448ca494dac0c5e88e16ecec79504",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/SGExtraParts-1.12.2-1.4.6-49.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/SGExtraParts-1.12.2-1.4.6-49.jar"
           }
         },
         {
@@ -1332,7 +1332,7 @@
           "artifact": {
             "size": 369314,
             "MD5": "1e66a91d88c26de3702af1c4f754a5e5",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/SilentLib-1.12.2-3.0.14+168.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/SilentLib-1.12.2-3.0.14+168.jar"
           }
         },
         {
@@ -1342,7 +1342,7 @@
           "artifact": {
             "size": 3485752,
             "MD5": "f0d495169719288a9c0ba236275f049c",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/SilentsGems-1.12.2-2.8.22+327.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/SilentsGems-1.12.2-2.8.22+327.jar"
           }
         },
         {
@@ -1352,7 +1352,7 @@
           "artifact": {
             "size": 19865,
             "MD5": "204a394109dbb01d6166b4a19d86c0a6",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/Simple-Void-World-1.12-1.2.0.9-universal.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/Simple-Void-World-1.12-1.2.0.9-universal.jar"
           }
         },
         {
@@ -1362,7 +1362,7 @@
           "artifact": {
             "size": 664384,
             "MD5": "90d79e964142ea700f4fa81945510918",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/SimplyJetpacks2-1.12.2-2.2.14.67.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/SimplyJetpacks2-1.12.2-2.2.14.67.jar"
           }
         },
         {
@@ -1372,7 +1372,7 @@
           "artifact": {
             "size": 671064,
             "MD5": "33b0a2c1e69fb5f15d063f20d2ff88fa",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/SolarFluxReborn_1.12.2-4.35r.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/SolarFluxReborn_1.12.2-4.35r.jar"
           }
         },
         {
@@ -1382,7 +1382,7 @@
           "artifact": {
             "size": 460454,
             "MD5": "a05ed445a2c384e429c124b673cbda2a",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/StandardExpansion-3.4.173.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/StandardExpansion-3.4.173.jar"
           }
         },
         {
@@ -1392,7 +1392,7 @@
           "artifact": {
             "size": 2475522,
             "MD5": "12364b6c528fe49af3c9d6cfb6cc4117",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/StevesCarts-1.12.2-2.4.32.137.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/StevesCarts-1.12.2-2.4.32.137.jar"
           }
         },
         {
@@ -1402,7 +1402,7 @@
           "artifact": {
             "size": 604797,
             "MD5": "039cbee23cf7fefe65af1114483fb57e",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/StorageDrawers-1.12.2-5.4.0.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/StorageDrawers-1.12.2-5.4.0.jar"
           }
         },
         {
@@ -1412,7 +1412,7 @@
           "artifact": {
             "size": 4022370,
             "MD5": "655ed2a0540b8ff318727e6c6d6aa416",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/TConstruct-1.12.2-2.13.0.171.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/TConstruct-1.12.2-2.13.0.171.jar"
           }
         },
         {
@@ -1422,7 +1422,7 @@
           "artifact": {
             "size": 2744721,
             "MD5": "d3f6857e1d3c086b7196f9b38a0e157f",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/TechReborn-1.12.2-2.26.3.1066-universal.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/TechReborn-1.12.2-2.26.3.1066-universal.jar"
           }
         },
         {
@@ -1432,7 +1432,7 @@
           "artifact": {
             "size": 11360786,
             "MD5": "3b13783ccaafb5d5b9ce8cb85e87fff6",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/Thaumcraft-1.12.2-6.1.BETA26.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/Thaumcraft-1.12.2-6.1.BETA26.jar"
           }
         },
         {
@@ -1442,7 +1442,7 @@
           "artifact": {
             "size": 89380326,
             "MD5": "b237f003b3349bf767063d674030a877",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/TheBetweenlands-3.5.6-universal.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/TheBetweenlands-3.5.6-universal.jar"
           }
         },
         {
@@ -1452,7 +1452,7 @@
           "artifact": {
             "size": 106843,
             "MD5": "a6993f3947a833582909c7e31325987c",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/ThermalCultivation-1.12.2-0.3.3.12-universal.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/ThermalCultivation-1.12.2-0.3.3.12-universal.jar"
           }
         },
         {
@@ -1462,7 +1462,7 @@
           "artifact": {
             "size": 762980,
             "MD5": "3317c6f327d7ebe0ee3bd6206ececb02",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/ThermalDynamics-1.12.2-2.5.5.21-universal.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/ThermalDynamics-1.12.2-2.5.5.21-universal.jar"
           }
         },
         {
@@ -1472,7 +1472,7 @@
           "artifact": {
             "size": 2426151,
             "MD5": "53144cfec12795862d20aa07750c9a59",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/ThermalExpansion-1.12.2-5.5.4.43-universal.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/ThermalExpansion-1.12.2-5.5.4.43-universal.jar"
           }
         },
         {
@@ -1482,7 +1482,7 @@
           "artifact": {
             "size": 2312713,
             "MD5": "0f61017dc9412ba4aad8a64f7bca16bb",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/ThermalFoundation-1.12.2-2.6.3.27-universal.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/ThermalFoundation-1.12.2-2.6.3.27-universal.jar"
           }
         },
         {
@@ -1492,7 +1492,7 @@
           "artifact": {
             "size": 197601,
             "MD5": "0a670c0665e1b2d41300f7ed6da148b4",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/ThermalInnovation-1.12.2-0.3.3.12-universal.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/ThermalInnovation-1.12.2-0.3.3.12-universal.jar"
           }
         },
         {
@@ -1502,7 +1502,7 @@
           "artifact": {
             "size": 95850,
             "MD5": "f9253fe86c6649afbf49d221c71ba19a",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/TinkerToolLeveling-1.12.2-1.1.0.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/TinkerToolLeveling-1.12.2-1.1.0.jar"
           }
         },
         {
@@ -1512,7 +1512,7 @@
           "artifact": {
             "size": 998411,
             "MD5": "905f6590b33d4b3ba80d973f3979d0d0",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/TinkersComplement-1.12.2-0.4.3.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/TinkersComplement-1.12.2-0.4.3.jar"
           }
         },
         {
@@ -1522,7 +1522,7 @@
           "artifact": {
             "size": 446678,
             "MD5": "bea9b18295a2b7762dedd938f447353c",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/Translocators-1.12.2-2.5.2.81-universal.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/Translocators-1.12.2-2.5.2.81-universal.jar"
           }
         },
         {
@@ -1532,7 +1532,7 @@
           "artifact": {
             "size": 27005,
             "MD5": "7bceac1d0c247203ead7b0ee723c4ecb",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/TreeGrowingSimulator2017-1.0.1.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/TreeGrowingSimulator2017-1.0.1.jar"
           }
         },
         {
@@ -1542,7 +1542,7 @@
           "artifact": {
             "size": 185462,
             "MD5": "36b448f5a7c458be4ee010f4ff2e424b",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/UniDict-1.12.2-2.9.5.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/UniDict-1.12.2-2.9.5.jar"
           }
         },
         {
@@ -1552,7 +1552,7 @@
           "artifact": {
             "size": 364036,
             "MD5": "2305b3f0d60cd55510c4dd08abdb3656",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/WR-CBE-1.12.2-2.3.2.33-universal.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/WR-CBE-1.12.2-2.3.2.33-universal.jar"
           }
         },
         {
@@ -1562,7 +1562,7 @@
           "artifact": {
             "size": 134537,
             "MD5": "98eaacdc2b62a0d1bd47fefa2308713c",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/WanionLib-1.12.2-2.4.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/WanionLib-1.12.2-2.4.jar"
           }
         },
         {
@@ -1572,7 +1572,7 @@
           "artifact": {
             "size": 242030,
             "MD5": "fcaacca63f3eab9eaa8b4efbe85add86",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/WirelessCraftingTerminal-1.12.2-3.12.97.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/WirelessCraftingTerminal-1.12.2-3.12.97.jar"
           }
         },
         {
@@ -1582,7 +1582,7 @@
           "artifact": {
             "size": 25417,
             "MD5": "d6e426631f7d9eb1f86ef0523870811a",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/WrapUp-1.12-1.1.3.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/WrapUp-1.12-1.1.3.jar"
           }
         },
         {
@@ -1592,7 +1592,7 @@
           "artifact": {
             "size": 513374,
             "MD5": "8594b7501c1ecc1bdaaa8ef42b7dbdda",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/ae2stuff-0.7.0.4-mc1.12.2.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/ae2stuff-0.7.0.4-mc1.12.2.jar"
           }
         },
         {
@@ -1602,7 +1602,7 @@
           "artifact": {
             "size": 14129163,
             "MD5": "d0bdb52e5510ec4b03e134abae5d221f",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/aether_legacy-1.12.2-v1.4.4.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/aether_legacy-1.12.2-v1.4.4.jar"
           }
         },
         {
@@ -1612,7 +1612,7 @@
           "artifact": {
             "size": 44041,
             "MD5": "da672a35350bb77a07b9c65bad992153",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/angelRingToBauble-1.12-0.3.1.50+d4e654e.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/angelRingToBauble-1.12-0.3.1.50+d4e654e.jar"
           }
         },
         {
@@ -1622,7 +1622,7 @@
           "artifact": {
             "size": 4062630,
             "MD5": "b8667d60a761d5b5ae3c8a15192f9e28",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/appliedenergistics2-rv6-stable-7.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/appliedenergistics2-rv6-stable-7.jar"
           }
         },
         {
@@ -1632,7 +1632,7 @@
           "artifact": {
             "size": 76584,
             "MD5": "665399fc4c10eb93193648ec7cfbb3c6",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/armoryexpansion-1.4.1.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/armoryexpansion-1.4.1.jar"
           }
         },
         {
@@ -1642,7 +1642,7 @@
           "artifact": {
             "size": 24975395,
             "MD5": "910791697d6573a4a41f9319f243a1cf",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/astralsorcery-1.12.2-1.10.22.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/astralsorcery-1.12.2-1.10.22.jar"
           }
         },
         {
@@ -1652,7 +1652,7 @@
           "artifact": {
             "size": 22178,
             "MD5": "a0e6a010ab54b9003d572d962eb55f58",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/avaritiaio-1.4.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/avaritiaio-1.4.jar"
           }
         },
         {
@@ -1662,7 +1662,7 @@
           "artifact": {
             "size": 685028,
             "MD5": "caae1ceb2cbcdc7bd7a6acf078788faf",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/base-1.12.2-3.13.0.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/base-1.12.2-3.13.0.jar"
           }
         },
         {
@@ -1672,7 +1672,7 @@
           "artifact": {
             "size": 68590,
             "MD5": "acced31f01339ea8af67b06aaa3cbe14",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/baubley-heart-canisters-1.12.2-2.0.3.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/baubley-heart-canisters-1.12.2-2.0.3.jar"
           }
         },
         {
@@ -1682,7 +1682,7 @@
           "artifact": {
             "size": 1962731,
             "MD5": "d2b8ba08414ac12737eb5ecbf92a19d9",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/bdlib-1.14.3.12-mc1.12.2.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/bdlib-1.14.3.12-mc1.12.2.jar"
           }
         },
         {
@@ -1692,7 +1692,7 @@
           "artifact": {
             "size": 5856196,
             "MD5": "9a0d33bed878997d43786b0045ffb85e",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/binnie-mods-1.12.2-2.5.1.198.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/binnie-mods-1.12.2-2.5.1.198.jar"
           }
         },
         {
@@ -1702,7 +1702,7 @@
           "artifact": {
             "size": 658780,
             "MD5": "136677befb5a253b867c8fde52bfa11b",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/bonsaitrees-1.1.4-b170.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/bonsaitrees-1.1.4-b170.jar"
           }
         },
         {
@@ -1712,7 +1712,7 @@
           "artifact": {
             "size": 4784433,
             "MD5": "00f44352869d26e28d5037f98dcfd4c4",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/buildcraft-all-7.99.24.4.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/buildcraft-all-7.99.24.4.jar"
           }
         },
         {
@@ -1722,7 +1722,7 @@
           "artifact": {
             "size": 1425704,
             "MD5": "624c0b3c5a12c7ab2f9c6200aa8db4c7",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/calculator-1.12.2-5.0.12-15.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/calculator-1.12.2-5.0.12-15.jar"
           }
         },
         {
@@ -1732,7 +1732,7 @@
           "artifact": {
             "size": 80715,
             "MD5": "e30ed1f16ff0e300e24109ac78718183",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/capabilityadapter-1.1.0.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/capabilityadapter-1.1.0.jar"
           }
         },
         {
@@ -1742,7 +1742,7 @@
           "artifact": {
             "size": 253835,
             "MD5": "9827f7e76e178b7deca07fd3131771b0",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/chickens-6.1.0.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/chickens-6.1.0.jar"
           }
         },
         {
@@ -1752,7 +1752,7 @@
           "artifact": {
             "size": 730062,
             "MD5": "e195df8997b3e7fe70b3b39266aceb79",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/compactmachines3-1.12.2-3.0.18-b278.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/compactmachines3-1.12.2-3.0.18-b278.jar"
           }
         },
         {
@@ -1762,7 +1762,7 @@
           "artifact": {
             "size": 894041,
             "MD5": "ed6f47ecab9a95cbf173ebb33d576d1c",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/conarm-1.12.2-1.2.5.3.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/conarm-1.12.2-1.2.5.3.jar"
           }
         },
         {
@@ -1772,7 +1772,7 @@
           "artifact": {
             "size": 1001848,
             "MD5": "ecd45a01612427f81b0520767b475dd9",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/environmentaltech-1.12.2-2.0.20.1.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/environmentaltech-1.12.2-2.0.20.1.jar"
           }
         },
         {
@@ -1782,7 +1782,7 @@
           "artifact": {
             "size": 63844,
             "MD5": "36c0e72b8e63aa5d497338e6fa74ff95",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/etlunar-1.12.2-2.0.20.1.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/etlunar-1.12.2-2.0.20.1.jar"
           }
         },
         {
@@ -1792,7 +1792,7 @@
           "artifact": {
             "size": 954174,
             "MD5": "170d2946ffca047b8b427a4755f6d752",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/exnihilocreatio-1.12.2-0.4.7.2.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/exnihilocreatio-1.12.2-0.4.7.2.jar"
           }
         },
         {
@@ -1802,7 +1802,7 @@
           "artifact": {
             "size": 3226408,
             "MD5": "1ea591619e6d5204bf077214868772ef",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/extrautils2-1.12-1.9.9.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/extrautils2-1.12-1.9.9.jar"
           }
         },
         {
@@ -1812,7 +1812,7 @@
           "artifact": {
             "size": 464693,
             "MD5": "04850be565e1fea67a27bc1b58999ee7",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/fluxnetworks-1.12.2-4.0.14-31.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/fluxnetworks-1.12.2-4.0.14-31.jar"
           }
         },
         {
@@ -1822,7 +1822,7 @@
           "artifact": {
             "size": 201683,
             "MD5": "bba94f1ee252fcfbd2d52779f5c2f2b1",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/foamfix-0.10.10-1.12.2.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/foamfix-0.10.10-1.12.2.jar"
           }
         },
         {
@@ -1832,7 +1832,7 @@
           "artifact": {
             "size": 5240608,
             "MD5": "c7db15e67d568c6d01d9e5373c6fc6bc",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/forestry_1.12.2-5.8.2.409.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/forestry_1.12.2-5.8.2.409.jar"
           }
         },
         {
@@ -1842,7 +1842,7 @@
           "artifact": {
             "size": 2435626,
             "MD5": "7e4f4d160032658e095eff8221977800",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/furniture-6.3.1-1.12.2.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/furniture-6.3.1-1.12.2.jar"
           }
         },
         {
@@ -1852,7 +1852,7 @@
           "artifact": {
             "size": 1856305,
             "MD5": "81b4720925043e1b4c198cabca9bd87f",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/gendustry-1.6.5.8-mc1.12.2.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/gendustry-1.6.5.8-mc1.12.2.jar"
           }
         },
         {
@@ -1862,7 +1862,7 @@
           "artifact": {
             "size": 67472,
             "MD5": "2f09ca53f77d06071a31f32a25586950",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/gendustryjei-1.0.2.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/gendustryjei-1.0.2.jar"
           }
         },
         {
@@ -1872,7 +1872,7 @@
           "artifact": {
             "size": 1674251,
             "MD5": "7873749b116958f22a3af9d66db06a37",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/generators-0.9.20.12-mc1.12.2.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/generators-0.9.20.12-mc1.12.2.jar"
           }
         },
         {
@@ -1882,7 +1882,7 @@
           "artifact": {
             "size": 674868,
             "MD5": "ac58a1d12d9e0c249f581e4e27f61182",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/hatchery-1.12.2-2.2.2.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/hatchery-1.12.2-2.2.2.jar"
           }
         },
         {
@@ -1892,7 +1892,7 @@
           "artifact": {
             "size": 581963,
             "MD5": "bf13a2044ece544b449c7dc6f8aa40af",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/iChunUtil-1.12.2-7.2.2.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/iChunUtil-1.12.2-7.2.2.jar"
           }
         },
         {
@@ -1902,7 +1902,7 @@
           "artifact": {
             "size": 906018,
             "MD5": "57ba127778e579d10d705f9f8359d2e0",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/immersivepetroleum-1.12.2-1.1.9.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/immersivepetroleum-1.12.2-1.1.9.jar"
           }
         },
         {
@@ -1912,7 +1912,7 @@
           "artifact": {
             "size": 522502,
             "MD5": "3be088e1e5b1bea50f04cdfb4082a528",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/immersivetech-1.12-1.3.10.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/immersivetech-1.12-1.3.10.jar"
           }
         },
         {
@@ -1922,7 +1922,7 @@
           "artifact": {
             "size": 8465870,
             "MD5": "8a541cfd320177809b0771002f0e6daf",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/industrialcraft-2-2.8.188-ex112.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/industrialcraft-2-2.8.188-ex112.jar"
           }
         },
         {
@@ -1932,7 +1932,7 @@
           "artifact": {
             "size": 1603134,
             "MD5": "a9330399f14295d90e4ec3b5bb93f81f",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/industrialforegoing-1.12.2-1.12.13-237.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/industrialforegoing-1.12.2-1.12.13-237.jar"
           }
         },
         {
@@ -1942,7 +1942,7 @@
           "artifact": {
             "size": 858298,
             "MD5": "0478972396cd370d057573da29d25982",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/infinitylib-1.12.0.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/infinitylib-1.12.0.jar"
           }
         },
         {
@@ -1952,7 +1952,7 @@
           "artifact": {
             "size": 956692,
             "MD5": "743179bc3a8f50751efbb019acc759a9",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/ironchest-1.12.2-7.0.72.847.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/ironchest-1.12.2-7.0.72.847.jar"
           }
         },
         {
@@ -1962,7 +1962,7 @@
           "artifact": {
             "size": 651473,
             "MD5": "cfdbfecefb1bdc5a3fbbcecbfecb0545",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/jei_1.12.2-4.15.0.291.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/jei_1.12.2-4.15.0.291.jar"
           }
         },
         {
@@ -1972,7 +1972,7 @@
           "artifact": {
             "size": 117480,
             "MD5": "a4fef0a3bb6d401eb236b3fe3e1a4846",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/jeibees-0.9.0.5-mc1.12.2.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/jeibees-0.9.0.5-mc1.12.2.jar"
           }
         },
         {
@@ -1982,7 +1982,7 @@
           "artifact": {
             "size": 1934386,
             "MD5": "927074f3947d29fe3f25a9b8932664f6",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/journeymap-1.12.2-5.5.8.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/journeymap-1.12.2-5.5.8.jar"
           }
         },
         {
@@ -1992,7 +1992,7 @@
           "artifact": {
             "size": 1939783,
             "MD5": "ccc183a97d7b9688a49bf29b61343f49",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/malisiscore-1.12.2-6.5.1.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/malisiscore-1.12.2-6.5.1.jar"
           }
         },
         {
@@ -2002,7 +2002,7 @@
           "artifact": {
             "size": 1741669,
             "MD5": "6d0f129ff9a05f84add5b2209a6d0284",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/malisisdoors-1.12.2-7.3.0.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/malisisdoors-1.12.2-7.3.0.jar"
           }
         },
         {
@@ -2012,7 +2012,7 @@
           "artifact": {
             "size": 39973,
             "MD5": "941c524f8265d287265d138acca02406",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/matc-1.0.1-hotfix.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/matc-1.0.1-hotfix.jar"
           }
         },
         {
@@ -2022,7 +2022,7 @@
           "artifact": {
             "size": 544856,
             "MD5": "45ac9983da9fd2bc7fe3446b9f4287c1",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/mcjtylib-1.12-3.5.4.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/mcjtylib-1.12-3.5.4.jar"
           }
         },
         {
@@ -2032,7 +2032,7 @@
           "artifact": {
             "size": 447874,
             "MD5": "e1737d87f3506f7913dea5462395cbda",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/modtweaker-4.0.17.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/modtweaker-4.0.17.jar"
           }
         },
         {
@@ -2042,7 +2042,7 @@
           "artifact": {
             "size": 224724,
             "MD5": "df5021e1781992c0be102fc2a21a6d70",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/morechickens-1.12.2-3.2.0.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/morechickens-1.12.2-3.2.0.jar"
           }
         },
         {
@@ -2052,7 +2052,7 @@
           "artifact": {
             "size": 8943,
             "MD5": "67f21881949aec90227812c2cc1c4e2a",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/mystagradcompat-1.2.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/mystagradcompat-1.2.jar"
           }
         },
         {
@@ -2062,7 +2062,7 @@
           "artifact": {
             "size": 1142687,
             "MD5": "2310e87658a493970605d416a504e0f9",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/natura-1.12.2-4.3.2.69.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/natura-1.12.2-4.3.2.69.jar"
           }
         },
         {
@@ -2072,7 +2072,7 @@
           "artifact": {
             "size": 25526,
             "MD5": "c80e7dd6384871b970c2cde4e105097a",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/oeintegration-2.3.4.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/oeintegration-2.3.4.jar"
           }
         },
         {
@@ -2082,7 +2082,7 @@
           "artifact": {
             "size": 328793,
             "MD5": "0f90369081c895ad54f5a011044d1779",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/p455w0rdslib-1.12.2-2.3.161.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/p455w0rdslib-1.12.2-2.3.161.jar"
           }
         },
         {
@@ -2092,7 +2092,7 @@
           "artifact": {
             "size": 1082311,
             "MD5": "9892af4ac4f8ca4222138a245592227c",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/phosphor-1.12.2-0.2.6+build50-universal.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/phosphor-1.12.2-0.2.6+build50-universal.jar"
           }
         },
         {
@@ -2102,7 +2102,7 @@
           "artifact": {
             "size": 546349,
             "MD5": "a5986fba10310c0e19a65b5eaf25522c",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/plustic-7.1.6.1.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/plustic-7.1.6.1.jar"
           }
         },
         {
@@ -2112,7 +2112,7 @@
           "artifact": {
             "size": 9527799,
             "MD5": "7caa26ea52b8948f9715fc1835c00a07",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/pneumaticcraft-repressurized-1.12.2-0.11.9-383.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/pneumaticcraft-repressurized-1.12.2-0.11.9-383.jar"
           }
         },
         {
@@ -2122,7 +2122,7 @@
           "artifact": {
             "size": 20203,
             "MD5": "aa802b89cd4244d0bfaff4b60a0f5654",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/questbook-3.1.1-1.12.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/questbook-3.1.1-1.12.jar"
           }
         },
         {
@@ -2132,7 +2132,7 @@
           "artifact": {
             "size": 283420,
             "MD5": "d4545734e537722cf6e273881f13b23e",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/randompatches-1.12.2-1.21.0.0.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/randompatches-1.12.2-1.21.0.0.jar"
           }
         },
         {
@@ -2142,7 +2142,7 @@
           "artifact": {
             "size": 2895803,
             "MD5": "3af6f5864243b044a8dd6f2cb1a4b0cf",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/rftools-1.12-7.73.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/rftools-1.12-7.73.jar"
           }
         },
         {
@@ -2152,7 +2152,7 @@
           "artifact": {
             "size": 600728,
             "MD5": "640e2b3241acde04684bd904829959ad",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/rftoolsctrl-1.12-2.0.2.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/rftoolsctrl-1.12-2.0.2.jar"
           }
         },
         {
@@ -2162,7 +2162,7 @@
           "artifact": {
             "size": 1682421,
             "MD5": "ee4db68d6afee08ec383f525a331ef53",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/rftoolsdim-1.12-5.71.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/rftoolsdim-1.12-5.71.jar"
           }
         },
         {
@@ -2172,7 +2172,7 @@
           "artifact": {
             "size": 148083,
             "MD5": "afd405e1ba3857a4bff72c394c3540af",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/rftoolspower-1.12-1.2.0.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/rftoolspower-1.12-1.2.0.jar"
           }
         },
         {
@@ -2182,7 +2182,7 @@
           "artifact": {
             "size": 335854,
             "MD5": "f40eb2a747785efcae3929e8017989c0",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/roost-1.12.2-2.0.10.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/roost-1.12.2-2.0.10.jar"
           }
         },
         {
@@ -2192,7 +2192,7 @@
           "artifact": {
             "size": 1160618,
             "MD5": "02c6264bdfa66c5895aed1d739109420",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/sonarcore-1.12.2-5.0.19-20.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/sonarcore-1.12.2-5.0.19-20.jar"
           }
         },
         {
@@ -2202,7 +2202,7 @@
           "artifact": {
             "size": 1140374,
             "MD5": "b0214b0a90243374c6bd89a023f2b26e",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/tesla-core-lib-1.12.2-1.0.15.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/tesla-core-lib-1.12.2-1.0.15.jar"
           }
         },
         {
@@ -2212,7 +2212,7 @@
           "artifact": {
             "size": 605398,
             "MD5": "95345b4795f1266646b1e4ac6d66cc75",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/thaumicenergistics-2.2.3.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/thaumicenergistics-2.2.3.jar"
           }
         },
         {
@@ -2222,7 +2222,7 @@
           "artifact": {
             "size": 788139,
             "MD5": "185a3cdfaa25c66ebcbc90fdbfe508dd",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/thaumictinkerer-1.12.2-5.0-353c71c.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/thaumictinkerer-1.12.2-5.0-353c71c.jar"
           }
         },
         {
@@ -2232,7 +2232,7 @@
           "artifact": {
             "size": 301893,
             "MD5": "63849a13a822b3b56308245eb8074a7e",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/theoneprobe-1.12-1.4.28.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/theoneprobe-1.12-1.4.28.jar"
           }
         },
         {
@@ -2242,7 +2242,7 @@
           "artifact": {
             "size": 5766861,
             "MD5": "2b210b0191a90613f7386aa0f68e896f",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/tinker_io-1.12.2-rw2.7.1.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/tinker_io-1.12.2-rw2.7.1.jar"
           }
         },
         {
@@ -2252,7 +2252,7 @@
           "artifact": {
             "size": 12255,
             "MD5": "b2b7946fdd352745f75a9676f0df51a3",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/tinkersjei-1.2.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/tinkersjei-1.2.jar"
           }
         },
         {
@@ -2262,7 +2262,7 @@
           "artifact": {
             "size": 1134227,
             "MD5": "edd094aba8bdaa2d42b79af68df17cc4",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/tinyprogressions-1.12.2-3.3.34-Release.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/tinyprogressions-1.12.2-3.3.34-Release.jar"
           }
         },
         {
@@ -2272,7 +2272,7 @@
           "artifact": {
             "size": 241463,
             "MD5": "e3e9e49ccce0e818b4f7a2e423c0dd65",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/topaddons-1.12.2-1.12.0.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/topaddons-1.12.2-1.12.0.jar"
           }
         },
         {
@@ -2282,7 +2282,7 @@
           "artifact": {
             "size": 28721750,
             "MD5": "49ba19277c2bfbcf65aa93173292812b",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/twilightforest-1.12.2-3.10.1013-universal.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/twilightforest-1.12.2-3.10.1013-universal.jar"
           }
         },
         {
@@ -2292,7 +2292,7 @@
           "artifact": {
             "size": 6396,
             "MD5": "c13b3a2c4ed9537e4f64f7c9bbde64f3",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/unloader-1.2.0.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/unloader-1.2.0.jar"
           }
         },
         {
@@ -2302,7 +2302,7 @@
           "artifact": {
             "size": 733580,
             "MD5": "e9bfd5d4274395d87c0bea745a37223a",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/valkyrielib-1.12.2-2.0.20.1.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/valkyrielib-1.12.2-2.0.20.1.jar"
           }
         },
         {
@@ -2312,7 +2312,7 @@
           "artifact": {
             "size": 101036,
             "MD5": "fc27fd777ed52d56e9cbf8880a610a4d",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/voidislandcontrol-1.5.3.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/voidislandcontrol-1.5.3.jar"
           }
         },
         {
@@ -2322,7 +2322,7 @@
           "artifact": {
             "size": 879720,
             "MD5": "5337f3f9c93f9da1f59797c2275fa288",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/woot-1.12.2-1.4.11.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/woot-1.12.2-1.4.11.jar"
           }
         },
         {
@@ -2332,7 +2332,7 @@
           "artifact": {
             "size": 496307,
             "MD5": "13935bce3f6b827aa19567a81e5be38f",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/xnet-1.12-1.8.2.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/xnet-1.12-1.8.2.jar"
           }
         },
         {
@@ -2342,7 +2342,7 @@
           "artifact": {
             "size": 228623,
             "MD5": "cc782f73e62792dcdb108449baec110f",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/required/zerocore-1.12.2-0.1.2.8.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/required/zerocore-1.12.2-0.1.2.8.jar"
           }
         },
         {
@@ -2352,7 +2352,7 @@
           "artifact": {
             "size": 2598821,
             "MD5": "043ac1db6f7441ea4cf31bcb621aff0b",
-            "url": "http://localhost:8080/servers/NexusCraft-1.12.2/forgemods/optionalon/OptiFine_1.12.2_HD_U_F5.jar"
+            "url": "https://launcher.nexostys.fr/NexusCraft/repo/forgemods/optionalon/OptiFine_1.12.2_HD_U_F5.jar"
           },
           "required": {
             "value": false
