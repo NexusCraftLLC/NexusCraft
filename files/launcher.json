@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "0.0.6",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
       "name": "NexusCraft (Minecraft 1.12.2)",
       "description": "NexusCraft Running Minecraft 1.12.2 (Forge v14.23.5.2854)",
       "icon": null,
-      "version": "0.0.1",
+      "version": "6.0.0",
       "address": "connect.nexuscraft.fr",
       "minecraftVersion": "1.12.2",
       "discord": {
