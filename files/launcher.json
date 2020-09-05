@@ -1,27 +1,27 @@
 {
-  "version": "0.0.6",
-  "rss": "<LINK TO RSS FEED>",
+  "version": "0.0.7",
+  "rss": "https://rss.nexostys.fr/?cat=2&feed=rss2",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "473024351633932289",
+    "smallImageText": "Rejoints-nous NexusCraft.fr",
+    "smallImageKey": "sealcircle"
   },
   "servers": [
     {
-      "id": "NexusCraft-1.12.2",
+      "id": "NexusCraft",
       "name": "NexusCraft (Minecraft 1.12.2)",
       "description": "NexusCraft Running Minecraft 1.12.2 (Forge v14.23.5.2854)",
       "icon": null,
       "version": "6.0.0",
-      "address": "connect.nexuscraft.fr",
+      "address": "connect.nexuscraft.fr:25547",
       "minecraftVersion": "1.12.2",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "NexusCraft",
+        "largeImageText": "https://discord.gg/ytQ2QNT",
+        "largeImageKey": "sealcircle"
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.12.2-14.23.5.2854:universal",
